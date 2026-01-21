@@ -219,7 +219,7 @@ Runs:
 
 ---
 
-## Why This Project Matters (Recruiter POV)
+## This Project  
 
 ✔ Full-stack architecture
 ✔ AI/ML integration
