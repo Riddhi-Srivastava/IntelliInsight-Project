@@ -1,8 +1,5 @@
 # IntelliInsight – AI Research Paper Analysis Platform
 
-<div align="center">
-  <img src="https://images.pexels.com/photos/5324865/pexels-photo-5324865.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&dpr=1" width="120" style="border-radius:16px"/>
-
 ### **Turning Research Papers into Smart Insights**
 
 *AI-powered platform to classify and analyze research papers automatically*
@@ -245,9 +242,5 @@ MIT License
 
 ---
 
-<div align="center">
-<strong>Built with as a Final Year Project</strong><br/>
-<em>Turning Research Papers into Smart Insights</em>
-</div>
 
 
