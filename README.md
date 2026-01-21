@@ -24,13 +24,13 @@ Users can upload a **PDF research paper**, and the system automatically:
 * Extracts key evidence and important sentences
 * Stores analysis history for future reference
 
-This project is designed as a **production-style system**, suitable for **placements, internships, and final-year evaluation**.
+This project is designed as a modular, real-world inspired system, suitable for placements, internships, and final-year evaluation.
 
 ---
 
 ## Key Features
 
-### 🔍 AI-Based Paper Classification
+### AI-Based Paper Classification
 
 * Conference vs Journal detection
 * Implementation vs Theoretical research classification
@@ -39,9 +39,9 @@ This project is designed as a **production-style system**, suitable for **placem
 ### Evidence Extraction
 
 * Extracts important result-oriented sentences
-* Identifies experiments, datasets, and methodology clues
+* Identifies experiment-related, dataset-related, and methodology-related keywords
 
-### 📊 Modern Dashboard
+### Modern Dashboard
 
 * Clean SaaS-style UI
 * Upload progress & status tracking
@@ -52,7 +52,7 @@ This project is designed as a **production-style system**, suitable for **placem
 * Light / Dark mode
 * System preference detection
 
-### 📄 Report Ready
+### Report Ready
 
 * Structured output for further report generation
 * Easy to extend for PDF summary export
@@ -103,7 +103,7 @@ MongoDB
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -235,7 +235,7 @@ Runs:
 Final Year B.Tech (IT) Student
 Aspiring Software Engineer
 
-🔗 GitHub: [https://github.com/Riddhi-Srivastava](https://github.com/Riddhi-Srivastava)
+GitHub: [https://github.com/Riddhi-Srivastava](https://github.com/Riddhi-Srivastava)
 
 ---
 
