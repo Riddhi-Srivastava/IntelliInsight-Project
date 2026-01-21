@@ -218,20 +218,19 @@ Runs:
 
 ## This Project  
 
-✔ Full-stack architecture
-✔ AI/ML integration
-✔ Clean codebase & modular design
-✔ Real-world problem solving
-✔ Production-style structure
+* Full-stack architecture
+* AI/ML integration
+* Clean codebase & modular design
+* Real-world problem solving
+* Production-style structure
 
 ---
 
 ## Author
 
 **Riddhi Srivastava**
-
-Final Year B.Tech (IT) Student
-Aspiring Software Engineer
+*Final Year B.Tech (IT) Student
+*Aspiring Software Engineer
 
 GitHub: [https://github.com/Riddhi-Srivastava](https://github.com/Riddhi-Srivastava)
 
