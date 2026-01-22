@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# ENV
+.env
+
+# AI / ML (IMPORTANT)
+ai-service/bert_results/
+ai-service/saved_bert/
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*
+
+# Media / Large files
+*.zip
+*.mp4
+*.mov
+*.pdf
+
+# Mac
+.DS_Store
